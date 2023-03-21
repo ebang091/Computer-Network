@@ -1,4 +1,6 @@
 # Computer-Network
 
 ## After studying
-<img href="https://m.media-amazon.com/images/I/41PRw50Qa-L._SX218_BO1,204,203,200_QL40_FMwebp_.jpg"/>
+
+
+![](https://m.media-amazon.com/images/I/41PRw50Qa-L._SX218_BO1,204,203,200_QL40_FMwebp_.jpg)
